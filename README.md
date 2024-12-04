@@ -1,4 +1,7 @@
+
 # 💫 About Me:
+![EgUx](https://github.com/user-attachments/assets/8bfe2a11-d76a-40a6-8c7d-912064203d99)
+
 A passionate developer 💻 driven by curiosity, creativity, and the desire to build impactful solutions 🌍. With a focus on IoT 🌐, Machine Learning 🤖, and Backend Development ⚙️, I thrive on tackling challenges and turning ideas into reality. My journey as a developer is fueled by continuous learning 📚, problem-solving 🧠, and exploring innovative ways to bridge technology and real-world needs.<br><br>I am deeply committed to crafting efficient, scalable, and reliable solutions while constantly expanding my knowledge in cutting-edge technologies 🚀. Every project I work on is an opportunity to grow, contribute, and make a difference through code 👨‍💻.<br><br>Feel free to explore my work and connect with me! 😊
 
 
